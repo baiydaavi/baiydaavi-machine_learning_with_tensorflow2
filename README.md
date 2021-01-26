@@ -3,11 +3,11 @@
 This repository will contain simple implementation of important machine learning algorithms using Tensorflow 2. 
 
 ## Table of contents
-* [Introduction] (#-introduction)
-* [Usage] (#-usage)
-* [Reading] (#-reading)
-* [Contributing] (#-contributing)
-* [Contact] (#-contact)
+* [Introduction](#introduction)
+* [Usage](#usage)
+* [Reading](#reading)
+* [Contributing](#contributing)
+* [Contact](#contact)
 
 ## Introduction
 I hope to make this repository the go to place to learn how to implement all the standard machine learning algorithms using Tensorflow 2. 
