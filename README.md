@@ -62,3 +62,6 @@ Refer to the resources provided below to better your understanding of important 
 You should feel free to add any new algorithm or an alternate implementations of the algorithms using Tensorflow 2 already on the repository. Feel free to suggest new algorithms you would like to see implemented.
 
 ## Contact
+
+Email: aavinash@ucdavis.edu
+Linkedin: http://www.linkedin.com/in/baidyaavinash
