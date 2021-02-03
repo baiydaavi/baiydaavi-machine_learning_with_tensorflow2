@@ -6,6 +6,12 @@ This repository will contain simple implementation of important machine learning
 * [Introduction](#introduction)
 * [Usage](#usage)
 * [Reading](#reading)
+    * [Supervised Learning](#supervised-learning)
+        *[Linear Regression](#linear-regression)
+    * [Unsupervised Learning](#unsupervised-learning)
+        *[Generative Adversarial Networks](#generative-adversarial-networks)
+    * [Reinforcement Learning](#reinforcement-learning)
+        *[Meta Reinforcement Learning](meta-reinforcement-learning)
 * [Contributing](#contributing)
 * [Contact](#contact)
 
@@ -29,7 +35,7 @@ Refer to the resources provided below to better your understanding of important 
 
 ### Unsupervised Learning:
 
-#### Generative Adversarial Networks (GAN):
+#### Generative Adversarial Networks:
 
 1. https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-a-1-dimensional-function-from-scratch-in-keras/
 
@@ -39,7 +45,7 @@ Refer to the resources provided below to better your understanding of important 
 
 ### Reinforcement Learning:
 
-#### Meta-Reinforcement Learning:
+#### Meta Reinforcement Learning:
 
 1. https://www.nature.com/articles/s41593-018-0147-8
 
