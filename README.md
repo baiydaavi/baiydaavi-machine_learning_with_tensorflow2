@@ -17,7 +17,9 @@ This repository will contain simple implementation of important machine learning
 
 ## Introduction
 
-I hope to make this repository the go to place to learn how to implement all the standard machine learning algorithms using Tensorflow 2. 
+The term ‘Machine learning’ was coined by Arthur Samuel way back in 1959 and he stated that ‘it gives computers the ability to learn without being explicitly programmed’. Simply put machine learning is used to program a computer to learn from experiences. Advancement in machine learning techniques is proving to be the most significant technological advances across all industries in recent decades. As a result, machine learning jobs are in exceptionally high demand in almost any sector with high average salaries. Therefore, it only makes sense to be well-versed in some of the most common but extremely important machine learning algorithms. 
+
+In this repository, we will learn how to implement standard machine learning algorithms in Tensorflow 2. The goal is to implement these algorithms in the simplest settings accompanied with simple analysis that can clearly explain the workings of these algorithms. I hope that this repository develops into the go to place to learn how to implement all the standard machine learning algorithms using Tensorflow 2. 
 
 ## Usage
 
