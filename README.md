@@ -61,7 +61,17 @@ Refer to the resources provided below to better your understanding of important 
 
 ## Contributing
 
-You should feel free to add any new algorithm or an alternate implementations of the algorithms using Tensorflow 2 already on the repository. Feel free to suggest new algorithms you would like to see implemented.
+Here are a few ways you could help contribute to this repository.
+
+1. Add implementations of the same or a different machine learning algorithm. Please make sure to add comments wherever necessary. Additionally, make sure to follow the current organization of the repository while adding the codes and results.
+
+2. Add or suggest additional analysis (by opening an issue) for the machine learning algorithm already implemented on the repository.
+
+3. Report bugs by opening an issue.
+
+4. Add additional resources to the reading section.
+
+Note: This is not an exhaustive list. Please feel free to suggest any other ideas to contribute towards the development of this repository. 
 
 ## Contact
 
