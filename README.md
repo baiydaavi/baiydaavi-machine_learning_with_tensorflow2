@@ -4,7 +4,7 @@ This repository will contain simple implementation of important machine learning
 
 ## Table of contents
 * [Introduction](#introduction)
-* [Usage](#usage)
+* [Repository Structure](#repository-structure)
 * [Reading](#reading)
     * [Supervised Learning](#supervised-learning)
         - [Linear Regression](#linear-regression)
@@ -21,7 +21,7 @@ The term ‘Machine learning’ was coined by Arthur Samuel way back in 1959 and
 
 In this repository, we will learn how to implement standard machine learning algorithms in Tensorflow 2. The goal is to implement these algorithms in the simplest settings accompanied with simple analysis that can clearly explain the workings of these algorithms. I hope that this repository develops into the go to place to learn how to implement all the standard machine learning algorithms using Tensorflow 2. 
 
-## Usage
+## Repository Structure
 
 ## Reading
 
