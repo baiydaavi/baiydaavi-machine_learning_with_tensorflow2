@@ -23,6 +23,18 @@ In this repository, we will learn how to implement standard machine learning alg
 
 ## Repository Structure
 
+Here is what each file or folder in the repository contains:
+
+Folder:
+
+1. Figures - This folder contains the figures generated for the various algorithms. This folder is divided further into folders named based on the which algorithm the figures belong to.
+
+2. Training - This folder contains the training checkpoints for the various algorithms. This folder is divided further into folders named based on the which algorithm the training checkpoints belong to.
+
+Files:
+
+1. tf2_gan.ipynb - This file implements the GAN algorithm.
+
 ## Reading
 
 Refer to the resources provided below to better your understanding of important machine learning algorithms and their implementations.
